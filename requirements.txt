@@ -1,0 +1,4 @@
+functions-framework==3.*
+openai
+grpcio
+google-cloud-firestore==1.3.0
